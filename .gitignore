@@ -1,0 +1,5 @@
+
+# Ignore compiled Java artifacts
+/bin/
+*.class
+
